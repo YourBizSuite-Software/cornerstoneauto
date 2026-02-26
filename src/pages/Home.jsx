@@ -15,7 +15,7 @@ export default function Home() {
           <img
             src={logo}
             alt="PowerNDrive Motors Logo"
-            className="h-40 md:h-80 w-auto object-contain"
+            className="h-96 md:h-96 w-auto object-contain"
           />
         </div>
       </section>
