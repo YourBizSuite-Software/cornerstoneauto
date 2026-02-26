@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex items-end justify-between mb-4">
           <h2 className="text-2xl font-bold">Featured Vehicles</h2>
           <Link to="/inventory" className="text-blue-600 underline">
-            See all
+            See all Cars
           </Link>
         </div>
 
